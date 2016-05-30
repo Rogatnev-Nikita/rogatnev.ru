@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /pages/
+Disallow: /php/
+Disallow: /works/
+Disallow: /cgi-bin/
+Disallow: /webstat/
+
+Sitemap: http://www.rogatnev.ru/sitemap.xml
